@@ -1,16 +1,19 @@
-## Hi there 👋
+## Neuroscience Research Projects
+- [single-neuron-analysis](https://github.com/sophiapouya/single-neuron-analysis): Research project on single neuron recoordings collected during a Stroop task from following brain regions: amygdala, hippocampus, pre-supplementary motor area, and prefrontal cortex.
+- [cognitive-control-task](https://github.com/sophiapouya/cognitive-control-task): Python-based behavioral task development to test cognitive control.
 
-<!--
-**sophiapouya/sophiapouya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Neuroscience Data Analysis 
+- [ieeg-analysis](https://github.com/sophiapouya/ieeg-analysis): Python-based scripts to process intracranial EEG data from Epilepsy patients 
+- [electrode-localization](https://github.com/sophiapouya/electrode-localization): Pipeline for localizing microelectrodes in deep-brain stimulation patients with Parkinson's disease. 
 
-Here are some ideas to get you started:
+## C++ Projects 
+- [system-monitor](https://github.com/sophiapouya/SystemMonitor) – C++ system resource monitor
+- [digit-recognition](https://github.com/sophiapouya/DigitRecognition) – C++ handwritten digit classifier
+- [concurrency](https://github.com/sophiapouya/Concurrency) – Threaded programming in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Machine Learning
+- [python-ml](https://github.com/sophiapouya/python-ml) – ML experiments in Jupyter Notebooks
+
+## Coursework
+- [data-structures](https://github.com/sophiapouya/DataStructures) – Java implementation of core structures
+
